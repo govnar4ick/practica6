@@ -15,6 +15,7 @@ namespace ConsoleApp21
             x = Convert.ToInt32(Console.ReadLine());
             double a = 4*Math.Sin(x)*5*Math.Sin(x);
             Console.WriteLine("функция равна =" + a);
+            Console.WriteLine("Выполнил Сергей Кущян");
             Console.ReadLine();
         }
     }
